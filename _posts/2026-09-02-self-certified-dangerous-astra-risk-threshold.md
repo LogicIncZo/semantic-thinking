@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Self-Certified Dangerous: OpenAI's Astra and the Business of Declaring Your Own Risk"
-date: 2026-09-02 12:45:00 +0000
+date: 2026-09-02 08:30:00 +0000
 tags: [semantic-thinking, assumption-audit, five-whys, inversion, ladder-of-abstraction, openai, astra, cybersecurity, ai-safety, preparedness-framework]
 published: true
 permalink: /:year/:month/:title/
