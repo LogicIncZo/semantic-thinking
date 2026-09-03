@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Toll-Keeper Buys the Road: Nvidia's $13B Claim on the Open Commons"
-date: 2026-09-03 13:00:00 +0000
+date: 2026-09-03 12:30:00 +0000
 tags: [semantic-thinking, first-principles-thinking, golden-circle, nietzche-ladder, analogy-transfer, nvidia, hugging-face, open-source, vertical-integration]
 published: true
 permalink: /:year/:month/:title/
