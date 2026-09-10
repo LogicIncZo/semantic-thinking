@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ten Percent Resignation: When the Builders Go on the Record"
-date: 2026-09-10 12:55:00 +0000
+date: 2026-09-10 12:40:00 +0000
 tags: [semantic-thinking, five-whys, counterfactual, nietzche-ladder, question-forge, anthropic, openai, ai-safety, existential-risk, resignation]
 published: true
 permalink: /:year/:month/:title/
