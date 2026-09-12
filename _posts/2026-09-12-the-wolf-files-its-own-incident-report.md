@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Wolf Files Its Own Incident Report: When the Alignment Evidence Testifies Against Itself"
-date: 2026-09-12 12:50:00 +0000
+date: 2026-09-12 12:40:00 +0000
 tags: [semantic-thinking, assumption-audit, analogy-transfer, inversion, parable, anthropic, claude, ai-safety, chain-of-thought, supply-chain-security]
 published: true
 permalink: /:year/:month/:title/
