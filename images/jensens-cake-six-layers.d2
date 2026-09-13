@@ -1,0 +1,49 @@
+title: "Six Layers of Jensen's Cake — Owned, Contested, Eaten (Sept 2026)" {
+  style.fill: "#0f1419"
+  style.font-color: "#e8e6e3"
+  style.stroke: "#3a4550"
+}
+
+direction: down
+
+energy: "ENERGY — contested, and closing fast\nUS 52 GW installed vs China 28 GW (end-2025)\nUS big tech spends 5.6x more capital; China added ~543 GW generation in 2025" {
+  style.fill: "#1c2b33"
+  style.stroke: "#5a8fa8"
+  style.font-color: "#e8e6e3"
+}
+
+price: "TOKEN PRICE — being eaten\nThis is the labs' layer, not Nvidia's\nDeepSeek V4 Pro at 0.87 USD per M output tokens vs 25–50 USD" {
+  style.fill: "#3a1f22"
+  style.stroke: "#c96a5c"
+  style.font-color: "#f0dcd8"
+}
+
+weights: "WEIGHTS — being eaten in public\n~30% of global LLM usage is Chinese open-weight\nQwen, DeepSeek V3, Kimi K2; Qwen past 1B downloads" {
+  style.fill: "#3a1f22"
+  style.stroke: "#c96a5c"
+  style.font-color: "#f0dcd8"
+}
+
+memory: "MEMORY (HBM) — the binding constraint\nCXMT 2026 output ~2M stacks = enough for 250–300K Ascend packages\nagainst ~13M stacks stockpiled before controls" {
+  style.fill: "#332b16"
+  style.stroke: "#c9a227"
+  style.font-color: "#f2e8cc"
+}
+
+fab: "FABRICATION — contested below the top\nSMIC doubling 7nm capacity, piloting 5nm\nAscend yields reported at 20–40%" {
+  style.fill: "#1c2b33"
+  style.stroke: "#5a8fa8"
+  style.font-color: "#e8e6e3"
+}
+
+compute: "COMPUTE — the one Nvidia owns outright\n96.2B USD quarter, 89B USD datacentre, 75% gross margin\nGuidance assumes ZERO China datacentre revenue" {
+  style.fill: "#152b1e"
+  style.stroke: "#4e9e6a"
+  style.font-color: "#dcefe2"
+}
+
+compute -> fab: "chips need fabs" {style.stroke: "#5a8fa8"; style.font-color: "#9fb3bd"}
+fab -> memory: "packages need HBM" {style.stroke: "#c9a227"; style.font-color: "#e0c86a"}
+memory -> weights: "training compute" {style.stroke: "#8a8f96"; style.font-color: "#9fb3bd"}
+weights -> price: "free weights set the price" {style.stroke: "#c96a5c"; style.font-color: "#e39a8c"}
+price -> energy: "inference demand" {style.stroke: "#8a8f96"; style.font-color: "#9fb3bd"}
