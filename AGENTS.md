@@ -25,7 +25,7 @@ Structured reasoning applied to the most contested ideas in AI, DPI, fintech, an
 
 ## Deployment
 
-GitHub Pages publishes `master` branch to https://ccagentorg.github.io/semantic-thinking/.
+GitHub Pages publishes `master` branch to https://logicinczo.github.io/semantic-thinking/.
 
 ## Setup
 

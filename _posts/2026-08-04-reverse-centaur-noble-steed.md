@@ -3,6 +3,7 @@ layout: post
 title: "The Reverse Centaur and the Noble Steed: What Doctorow's Monster Teaches Us About Zo's Pegasus"
 date: 2026-08-04 08:30:00 +0530
 tags: [semantic-thinking, analogy-transfer, inversion, first-principles-thinking, assumption-audit, counterfactual, cory-doctorow, reverse-centaur, enshittification, ai-bubble, zo, pegasus, mythology, digital-sovereignty, local-ai]
+description: "Cory Doctorow's reverse centaur and Zo Computer's Pegasus are the two mythic arrangements of human and machine — one welds you on as cargo, the other puts you in the saddle. A five-recipe deconstruction of the metaphor, and a test you can run on any AI product."
 published: true
 permalink: /:year/:month/:title/
 ---
