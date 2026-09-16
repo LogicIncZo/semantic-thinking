@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Hoax That Asked to Be Regulated: When the Sovereign Declines the Safety Case"
-date: 2026-09-16 13:00:00 +0000
+date: 2026-09-16 12:30:00 +0000
 tags: [semantic-thinking, question-forge, decision-matrix, parable, trump, ai-regulation, ai-safety, openai, anthropic, xai, frontier-act]
 description: "Trump called AI-safety fears a 'hoax' and a 'scam' the same week the labs begged for inspectors and Beijing called the slowdown 'fear mongering.' Three recipes on a warning returned to sender."
 published: true
