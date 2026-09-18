@@ -14,9 +14,13 @@ The most revealing moment was about horses. Asked whether we are over-blessing A
 
 The horse is doing real work in that sentence — and in the title of his book. This piece runs the centaur metaphor through five recipes from the semantic-algos framework, then rides it in the opposite direction: from the reverse centaur to the winged horse. Because there is a computer company whose entire brand is a horse. **Zo Computer**, founded in Brooklyn in May 2025, takes its logo from Pegasus — "the noble steed for the mind" — the creature that carried Zeus's thunderbolts.[^8] The reverse centaur and the Pegasus are the two mythic arrangements of human and machine. One welds you to the beast as cargo. The other puts you in the saddle. The difference is the entire argument of this post — and it is a difference you can test on any AI product you use today.
 
-![Three mythic anatomies: Centaur, Reverse Centaur, Pegasus + Rider](/semantic-thinking/images/reverse-centaur-anatomies.png)
-*Figure 1: Three arrangements of human and machine. The centaur fuses human head to horse body; the reverse centaur puts a machine head on a human liability; the Pegasus keeps rider and steed separate — separable by design.*
-
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/reverse-centaur-anatomies.webp">
+    <img src="/semantic-thinking/images/reverse-centaur-anatomies.png" alt="Three mythic anatomies: Centaur, Reverse Centaur, Pegasus + Rider" width="1400" height="262" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure 1: Three arrangements of human and machine. The centaur fuses human head to horse body; the reverse centaur puts a machine head on a human liability; the Pegasus keeps rider and steed separate — separable by design.</figcaption>
+</figure>
 ---
 
 ## 1. Analogy Transfer — The Anatomy of the Metaphor
@@ -55,9 +59,13 @@ Don't ask "how do you build a computer that serves its user." Ask: **"how would 
 
 Doctorow's negation of this playbook is the book's core instruction for AI criticism: do not ask what the technology *does* — ask **who it does it for, and who it does it to**.[^4] Asked of a product, that question becomes the dismount test of §4.
 
-![Two arrangements: Big AI as reverse centaur, Zo as Pegasus + rider](/semantic-thinking/images/reverse-centaur-arrangements.png)
-*Figure 2: In the Big AI arrangement, the machine orders, the human executes and absorbs blame, and money and pension flows return to the machine's owners. In the Zo arrangement, intent flows from the human, computation returns to the human, and the human — not the platform — answers to the world.*
-
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/reverse-centaur-arrangements.webp">
+    <img src="/semantic-thinking/images/reverse-centaur-arrangements.png" alt="Two arrangements: Big AI as reverse centaur, Zo as Pegasus + rider" width="1400" height="704" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure 2: In the Big AI arrangement, the machine orders, the human executes and absorbs blame, and money and pension flows return to the machine's owners. In the Zo arrangement, intent flows from the human, computation returns to the human, and the human — not the platform — answers to the world.</figcaption>
+</figure>
 ## 3. First-Principles Thinking — What a Computer Is For
 
 > *Strip away branding. What is the atomic unit of a human-computer relationship?*

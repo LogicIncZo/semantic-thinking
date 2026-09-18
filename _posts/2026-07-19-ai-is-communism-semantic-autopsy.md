@@ -4,6 +4,7 @@ title: "'AI Is Communism': A Semantic Autopsy"
 date: 2026-07-19 06:30:00 +0000
 tags: [semantic-thinking, assumption-audit, first-principles, inversion, analogy-transfer, nietzsche-ladder, golden-circle, ladder-of-abstraction, openai, dean-ball, kimi-k3, open-weights]
 published: true
+description: "Dean Ball claimed open weights lead to communism. Run through assumption audits, first-principles decomposition, and analogy transfer, the claim survives almost nothing."
 ---
 On July 17, 2026, Dean Ball — Head of Strategic Futures at OpenAI — posted a claim that detonated across AI Twitter:
 

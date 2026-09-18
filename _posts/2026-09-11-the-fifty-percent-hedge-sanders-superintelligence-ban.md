@@ -5,6 +5,7 @@ date: 2026-09-11 12:40:00 +0000
 tags: [semantic-thinking, first-principles, golden-circle, nietzche-ladder, analogy-transfer, inversion, bernie-sanders, ai-policy, superintelligence, sovereign-wealth-fund]
 published: true
 permalink: /:year/:month/:title/
+description: "Sanders wants to outlaw superintelligence and take a 50% public stake in AI companies. The hedge that bans a superlative while missing the substrate."
 ---
 
 On September 11, 2026, Senator Bernie Sanders went on BBC Newsnight to promote legislation banning artificial superintelligence and pausing advanced AI development — and, in the same breath, a sovereign wealth fund in which the United States would take a 50% stake in AI companies.[^1][^2] "When scientists tell you there is a chance, a chance that it could have a cataclysmic impact on humanity, you've got be a moron not to say, slow it down." The proposal arrived on a news cycle built for it: that same day Anthropic published a threat-intelligence report detailing blocked attempts to use Claude for biological-weapons development;[^3] the same week saw Evan Hubinger concede a greater-than-10% chance AI kills everyone this decade, OpenAI's chief scientist call for voluntary slowdowns, and an open letter demanding a superintelligence treaty.[^4] President Trump rejected the premise within hours: "if we don't win AI, we're going to be put in a very bad position."[^1] Five frames on the first legislation to take the labs' own risk estimates at face value — and to embed a paradox in its financing.

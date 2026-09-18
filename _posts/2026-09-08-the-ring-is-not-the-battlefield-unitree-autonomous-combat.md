@@ -5,6 +5,7 @@ date: 2026-09-08 12:30:00 +0000
 tags: [semantic-thinking, first-principles-thinking, assumption-audit, analogy-transfer, inversion, nietzche-ladder, unitree, robotics, world-models, autonomous-weapons, humanoid-robots]
 published: true
 permalink: /:year/:month/:title/
+description: "Unitree showed autonomous humanoid combat, Xinhua called it a national milestone. The gap between a demo that lands and a capability that deploys."
 ---
 
 On September 7, 2026, Unitree Robotics released a video announcing that its humanoid robot, powered by the UnifoLM-X2-1.0 model, had achieved "the world's first real-time world model-driven fully autonomous humanoid robot combat" — robots planning, deciding, and predicting an opponent's next move in real time, with no teleoperator.[^1] Xinhua ran it as a national milestone the next morning.[^2] The company framed the bout as "validation that world model-driven humanoid robots can be deployed at larger scale," while releasing no technical details on performance limits or real-world testing.[^1] The timing is charged: Reuters reported the same week that China is readying humanoid robots for combat, and Unitree — freshly public on the Shanghai STAR Market after a $905 million IPO — has shipped over 18,000 humanoid units at $16,000–18,000 apiece.[^3][^4] Five recipes on a video that is easy to watch and harder to read.

@@ -5,6 +5,7 @@ date: 2026-09-02 08:30:00 +0000
 tags: [semantic-thinking, assumption-audit, five-whys, inversion, ladder-of-abstraction, openai, astra, cybersecurity, ai-safety, preparedness-framework]
 published: true
 permalink: /:year/:month/:title/
+description: "OpenAI declared its own unreleased model a critical cyber risk, then shipped it anyway. What self-certified catastrophe thresholds are actually for."
 ---
 
 On September 1, 2026, OpenAI announced that Astra, its forthcoming model, is the first to cross the company's own threshold for "critical" cyber capabilities under its preparedness framework: Astra can independently find and exploit previously unknown vulnerabilities in real-world software, and chain multiple exploits together to bore deeper into target systems.[^1] It scored 100% on ExploitBench, ahead of GPT-5.6 Sol and Anthropic's Mythos.[^1] The model ships "soon" — but its advanced cyber abilities go first to the Daybreak Blue early-access program (Cisco, Cloudflare, Palo Alto Networks) and to briefed government partners, while everyone else gets a version fitted with a "misalignment monitor" that is supposed to refuse exploit requests.[^1]

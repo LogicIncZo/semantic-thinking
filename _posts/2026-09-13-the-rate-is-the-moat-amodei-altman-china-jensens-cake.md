@@ -18,9 +18,13 @@ So: is the slowdown call really because China is eating every layer of Jensen's 
 
 "Jensen's cake" hides at least six layers: compute (Nvidia, AMD, CUDA), fabrication (TSMC and the advanced-node supply chain), memory (where HBM, not logic, is the binding constraint), model weights, the price of a token, and energy. Check each honestly.
 
-![Six layers of the AI stack: compute, fabrication, memory, weights, token price, energy — which are owned, contested, or being eaten](/semantic-thinking/images/jensens-cake-six-layers.png)
-*Figure 1: The stack read top-down. Nvidia owns the compute layer outright and is compounding on guidance that excludes China. Memory is the physical chokepoint this cycle. The layers actually being eaten — weights and token price — belong to the labs, not to Nvidia.*
-
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/jensens-cake-six-layers.webp">
+    <img src="/semantic-thinking/images/jensens-cake-six-layers.png" alt="Six layers of the AI stack: compute, fabrication, memory, weights, token price, energy — which are owned, contested, or being eaten" width="1111" height="1400" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure 1: The stack read top-down. Nvidia owns the compute layer outright and is compounding on guidance that excludes China. Memory is the physical chokepoint this cycle. The layers actually being eaten — weights and token price — belong to the labs, not to Nvidia.</figcaption>
+</figure>
 **Compute.** Nvidia's cake is not shrinking; it is compounding. Revenue doubled year-on-year to $96.2 billion in the July quarter, with data-centre sales at $89 billion and 75 percent gross margin — on guidance that excludes China entirely.[^5][^6] Nvidia reported zero H20 sales to China-based customers, and its China data-centre revenue has fallen from roughly $17 billion and 13 percent of company revenue in fiscal 2025 to near-zero.[^9][^10] What China took was not Nvidia's cake, it was Nvidia's Chinese slice — and American policy took it first: export controls, then Beijing's own discouragement of domestic H20 purchases.[^10]
 
 The substitute supplier is real, though. Huawei plans around 600,000 Ascend 910C units in 2026 after a million dies in 2025, on the way to 1.6 million; Cambricon is targeting 500,000 chips, roughly triple its own 2025 output.[^11][^12] Cambricon's first-quarter revenue reached ¥2.885 billion, up 159.5 percent year-on-year; Hygon's rose 68 percent to ¥4.03 billion; Biren filed a 22-fold revenue surge.[^13][^14] Export controls look increasingly like accidental industrial policy: they did not block the Chinese chip industry, they handed it a captive market.[^14][^15]

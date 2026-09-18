@@ -5,6 +5,7 @@ date: 2026-07-20 15:30:00 +0530
 tags: [semantic-thinking, assumption-audit, first-principles, inversion, analogy-transfer, nietzsche-ladder, beckn, agristack, openagrinet, mahavistaar, digital-public-infrastructure, agriculture, privacy, consent]
 published: true
 permalink: /:year/:month/:title/
+description: "Beckn runs ONDC, energy, health, and now agriculture. A structural map of where an open protocol concentrates power, and seven vulnerability clusters it carries into AgriStack."
 ---
 
 The Beckn protocol is India's bet for interoperable digital commerce. It powers ONDC, the Unified Energy Interface, the Unified Health Interface, and — increasingly — agriculture. **OpenAgriNet (OAN)**, steered by COSS/EkStep with EY as implementation partner, uses Beckn to connect farmers, service providers, and markets through apps like **MahaVISTAAR** in Maharashtra.[^1][^2] Meanwhile, **AgriStack** — the government's foundational DPI for agriculture — operates Farmer Registries, Digital Crop Surveys, and the ADeX data exchange across 19 states, with **12.5+ crore farmers enrolled** as of mid-2026.[^3]
@@ -13,9 +14,13 @@ These two worlds are converging. OAN sits on top (farmer-facing intent → advis
 
 This piece runs **Beckn's entire structural design** through six reasoning recipes from the semantic-algos framework, with a specific focus on what vulnerabilities the protocol's architecture *enables by design* when deployed in agriculture — covering AgriStack, OAN, MahaVISTAAR, and the broader ecosystem.
 
-![AgriStack-OAN-Beckn stack: three layers interlocked](/semantic-thinking/images/agristack-oan-stack.png)
-*Figure 1: AgriStack's Farmer Registries/ADeX at the foundation, Beckn's gateway-and-registry layer in the middle, OAN/MahaVISTAAR apps at the top. UFSI bridges the two worlds.*
-
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/agristack-oan-stack.webp">
+    <img src="/semantic-thinking/images/agristack-oan-stack.png" alt="AgriStack-OAN-Beckn stack: three layers interlocked" width="1400" height="750" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure 1: AgriStack's Farmer Registries/ADeX at the foundation, Beckn's gateway-and-registry layer in the middle, OAN/MahaVISTAAR apps at the top. UFSI bridges the two worlds.</figcaption>
+</figure>
 ---
 
 ## 1. Assumption Audit — What Must Be True for Beckn to Be Safe in Agriculture?
@@ -103,12 +108,20 @@ Beckn has no concept of:
 
 ### 2A. The Gateway Observation Problem (visualised)
 
-![Beckn five-layer architecture with gaps highlighted](/semantic-thinking/images/beckn-layers.png)
-*Figure 2: Beckn's five-layer architecture — Application, Network (BAP→Gateway→BPP), Transaction Grammar, Message Signing, Infrastructure Transport. Note the critical gaps: identity, consent, and provenance are absent from the protocol specification.*
-
-![Gateway sees all farmer query metadata before routing](/semantic-thinking/images/beckn-gateway-surveillance.png)
-*Figure 2A: In Beckn's architecture, the Gateway observes every farmer query — crop choice, location, language, device — before routing it to matching BPPs. The dual-signature model ensures message integrity but does not prevent metadata exposure at the routing layer. This is an architectural feature that becomes a vulnerability in agriculture.*
-
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/beckn-layers.webp">
+    <img src="/semantic-thinking/images/beckn-layers.png" alt="Beckn five-layer architecture with gaps highlighted" width="1400" height="1015" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure 2: Beckn's five-layer architecture — Application, Network (BAP→Gateway→BPP), Transaction Grammar, Message Signing, Infrastructure Transport. Note the critical gaps: identity, consent, and provenance are absent from the protocol specification.</figcaption>
+</figure>
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/beckn-gateway-surveillance.webp">
+    <img src="/semantic-thinking/images/beckn-gateway-surveillance.png" alt="Gateway sees all farmer query metadata before routing" width="1376" height="768" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure 2A: In Beckn's architecture, the Gateway observes every farmer query — crop choice, location, language, device — before routing it to matching BPPs. The dual-signature model ensures message integrity but does not prevent metadata exposure at the routing layer. This is an architectural feature that becomes a vulnerability in agriculture.</figcaption>
+</figure>
 ### Layer 3: First-principles implication for agriculture
 
 A protocol designed for **discrete commercial transactions** is being deployed as the communication layer for **continuous governance relationships**.
@@ -219,9 +232,13 @@ Credit bureaus (CIBIL, Experian) consolidate financial data from multiple source
 
 ### The Power Architecture
 
-![Three power concentration points in the Beckn agricultural stack](/semantic-thinking/images/beckn-power-architecture.png)
-*Figure: Three power concentration points in Beckn's agricultural architecture — Gateway/Registry (COSS/EkStep observes all queries), Identity Linkage (AgriStack/UFSI connects Aadhaar profiles to behavior), and Protocol Governance (FIDE/COSS controls evolution, not democratic processes).*
-
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/beckn-power-architecture.webp">
+    <img src="/semantic-thinking/images/beckn-power-architecture.png" alt="Three power concentration points in the Beckn agricultural stack" width="1376" height="768" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure: Three power concentration points in Beckn's agricultural architecture — Gateway/Registry (COSS/EkStep observes all queries), Identity Linkage (AgriStack/UFSI connects Aadhaar profiles to behavior), and Protocol Governance (FIDE/COSS controls evolution, not democratic processes).</figcaption>
+</figure>
 The Beckn agricultural stack concentrates power at **three points**:
 
 1. **Gateway/Registry (COSS/EkStep):** The entity that operates the gateway sees all farmer intent data. This is a structural *information monopoly* on agricultural queries in the network. Unlike a search engine (which users can choose to abandon), OAN may become the de facto channel for government advisory — farmers cannot opt out without losing access to services.
@@ -350,9 +367,13 @@ The dual-digital-signature model already provides message integrity. Extend it w
 
 If a BPP paid for placement, this must be disclosed in `commercial_placements`.
 
-![Seven vulnerability clusters mapped across Beckn components](/semantic-thinking/images/vulnerability-map.png)
-*Figure 3: Seven vulnerability clusters mapped across Beckn components. Each vulnerability is linked to the semantic-algos recipe that uncovered it, the specific agricultural deployment context, the affected Beckn layer, and the risk level.*
-
+<figure>
+  <picture>
+    <source type="image/webp" srcset="/semantic-thinking/images/vulnerability-map.webp">
+    <img src="/semantic-thinking/images/vulnerability-map.png" alt="Seven vulnerability clusters mapped across Beckn components" width="1376" height="768" loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Figure 3: Seven vulnerability clusters mapped across Beckn components. Each vulnerability is linked to the semantic-algos recipe that uncovered it, the specific agricultural deployment context, the affected Beckn layer, and the risk level.</figcaption>
+</figure>
 ---
 
 ## 7. Fix Requirements — Protocol-Level Changes to Beckn
