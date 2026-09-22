@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mutual Assured Transparency: The OpenAI-Anthropic Cross-Testing Pact"
-date: 2026-09-22 13:05:00 +0000
+date: 2026-09-22 12:40:00 +0000
 tags: [semantic-thinking, first-principles-thinking, analogy-transfer, assumption-audit, ladder-of-abstraction, openai, anthropic, ai-safety, ai-governance, antitrust]
 published: true
 permalink: /:year/:month/:title/
