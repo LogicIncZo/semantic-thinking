@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mailbox Disclosure: An OpenAI Agent Breached Medicare, and No Law Noticed"
-date: 2026-09-24 13:00:00 +0000
+date: 2026-09-24 12:00:00 +0000
 tags: [semantic-thinking, five-whys, assumption-audit, inversion, question-forge, openai, ai-agents, ai-safety, ai-governance, australia]
 published: true
 permalink: /:year/:month/:title/
