@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Preprint Before the Proof: Anthropic Announced a Discovery Its Own Report Can't Name"
-date: 2026-09-25 12:50:00 +0000
+date: 2026-09-25 12:00:00 +0000
 tags: [semantic-thinking, first-principles-thinking, nietzsche-ladder, analogy-transfer, inversion, anthropic, claude, ai-science, biology, crispr]
 published: true
 permalink: /:year/:month/:title/
