@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Filed Under Existential Risk: What Anthropic's Prospectus Makes Legally True"
-date: 2026-09-29 13:30:00 +0000
+date: 2026-09-29 12:43:22 +0000
 tags: [semantic-thinking, assumption-audit, golden-circle, inversion, question-forge, anthropic, ipo, ai-safety, ai-governance]
 published: true
 permalink: /:year/:month/:title/
