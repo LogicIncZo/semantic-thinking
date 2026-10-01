@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Place Behind Glass: The Unverifiable Lead of Gemini 4 Argon"
-date: 2026-10-01 12:50:00 +0000
+date: 2026-10-01 12:30:00 +0000
 tags: [semantic-thinking, first-principles-thinking, assumption-audit, inversion, explanation-ladder, google-deepmind, gemini-4, benchmarks, ai-safety, cybersecurity]
 published: true
 permalink: /:year/:month/:title/
