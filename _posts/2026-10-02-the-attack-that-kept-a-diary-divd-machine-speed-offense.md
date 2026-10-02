@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Attack That Kept a Diary: DIVD and the Arrival of Machine-Speed Offense"
-date: 2026-10-02 13:15:00 +0000
+date: 2026-10-02 12:30:00 +0000
 tags: [semantic-thinking, first-principles-thinking, analogy-transfer, inversion, ladder-of-abstraction, question-forge, ai-agents, cybersecurity, divd, ai-safety]
 published: true
 permalink: /:year/:month/:title/
