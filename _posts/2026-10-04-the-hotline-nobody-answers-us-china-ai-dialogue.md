@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Hotline Nobody Answers: Washington and Beijing Agree on What to Call the Risk"
-date: 2026-10-04 13:00:00 +0000
+date: 2026-10-04 12:30:00 +0000
 tags: [semantic-thinking, first-principles-thinking, analogy-transfer, inversion, nietzche-ladder, us-china, ai-governance, ai-safety, donald-trump, xi-jinping]
 published: true
 permalink: /:year/:month/:title/
