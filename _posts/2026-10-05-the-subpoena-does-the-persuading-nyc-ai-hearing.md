@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Subpoena Does the Persuading: Frontier Labs Testify Under Oath in New York"
-date: 2026-10-05 13:00:00 +0000
+date: 2026-10-05 12:45:00 +0000
 tags: [semantic-thinking, ladder-of-abstraction, assumption-audit, analogy-transfer, golden-circle, ai-governance, ai-safety, new-york-city, openai, anthropic]
 published: true
 permalink: /:year/:month/:title/
