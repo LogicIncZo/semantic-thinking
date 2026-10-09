@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Golden Age Runs on Store Credit: Genesis Mission and the SI Rebrand"
-date: 2026-10-09 13:00:00 +0000
+date: 2026-10-09 12:30:00 +0000
 tags: [semantic-thinking, golden-circle, nietzche-ladder, assumption-audit, counterfactual, question-forge, donald-trump, genesis-mission, super-intelligence, ai-governance]
 published: true
 permalink: /:year/:month/:title/
