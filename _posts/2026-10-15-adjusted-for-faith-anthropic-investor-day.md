@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adjusted for Faith: Anthropic's $2 Trillion Investor Day"
-date: 2026-10-15 12:45:00 +0000
+date: 2026-10-15 12:00:00 +0000
 tags: [semantic-thinking, assumption-audit, nietzche-ladder, golden-circle, inversion, analogy-transfer, anthropic, ipo, ai-economics, openai]
 published: true
 permalink: /:year/:month/:title/
