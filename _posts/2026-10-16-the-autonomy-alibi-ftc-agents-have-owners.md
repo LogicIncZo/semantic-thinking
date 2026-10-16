@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Autonomy Alibi: The FTC Decides Agents Have Owners"
-date: 2026-10-16 13:00:00 +0000
+date: 2026-10-16 12:00:00 +0000
 tags: [semantic-thinking, five-whys, nietzche-ladder, analogy-transfer, question-forge, ftc, openai, anthropic, ai-policy, ai-liability]
 published: true
 permalink: /:year/:month/:title/
