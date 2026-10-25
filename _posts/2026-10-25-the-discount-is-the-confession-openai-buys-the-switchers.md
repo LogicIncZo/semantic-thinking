@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Discount Is the Confession: OpenAI Buys the Switchers"
-date: 2026-10-25 12:45:00 +0000
+date: 2026-10-25 12:30:00 +0000
 tags: [semantic-thinking, first-principles-thinking, nietzche-ladder, decision-matrix, analogy-transfer, openai, anthropic, replit, ai-pricing, enterprise-ai]
 published: true
 description: "OpenAI is poaching Anthropic's biggest customers with discounts up to 90% — Replit moved $100M+/year, DataCamp cut costs 80-90%, Rippling flipped its coding workload 16→52. Four reasoning frames on what a discount confesses about price, valuation, and the switching option."
