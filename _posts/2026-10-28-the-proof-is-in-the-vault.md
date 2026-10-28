@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Proof Is in the Vault: OpenAI, Anthropic, and the Negotiated Release of Machine Science"
-date: 2026-10-28 12:45:00 +0000
+date: 2026-10-28 06:00:00 +0000
 tags: [semantic-thinking, assumption-audit, first-principles-thinking, nietzche-ladder, question-forge, openai, anthropic, mathematics, exponential-time-hypothesis, ai-science]
 published: true
 description: "OpenAI announced three machine-made discoveries — one dumped raw, one refereed, one sealed in a vault. Four frames on the day science's biggest conjectures arrived twice, from rivals, within hours."
