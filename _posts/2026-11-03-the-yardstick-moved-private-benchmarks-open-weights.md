@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Yardstick Moved: Private Tests and the Open-Weight Mirage"
-date: 2026-11-03 13:00:00 +0000
+date: 2026-11-03 06:00:00 +0000
 tags: [semantic-thinking, first-principles-thinking, analogy-transfer, nietzche-ladder, question-forge, artificial-analysis, benchmarks, open-weights, china, anthropic]
 published: true
 permalink: /:year/:month/:title/
