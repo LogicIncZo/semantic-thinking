@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Lease Is the Leak: Moonshot's B300 Rental and the Grammar of Export Controls"
-date: 2026-11-10 13:15:00 +0000
+date: 2026-11-10 06:00:00 +0000
 permalink: /:year/:month/:title/
 description: "Financing documents filed with a Chinese credit registry show Moonshot AI renting 32 Nvidia B300 servers from a drone distributor funded by a liquor company's purchase and a Beijing bank loan. Five frames on why an export control written over sales cannot govern a market that trades services."
 tags: [semantic-thinking, first-principles-thinking, analogy-transfer, ladder-of-abstraction, inversion, nietzche-ladder, nvidia, export-controls, moonshot-ai, china]
