@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Proof Outgrew the Prover: Alpöge, Claude, and the Riemann Claim Nobody Can Read"
-date: 2026-11-21 13:15:00 +0000
+date: 2026-11-21 06:00:00 +0000
 permalink: /:year/:month/:title/
 description: "Anthropic mathematician Levent Alpöge posted a four-page note on November 20 claiming, with Claude, a proof of the Riemann hypothesis — released as 17 million lines of Lean that no one, including its author, has mastered, days after the lab's record IPO. Five frames on a proof that now exists before anyone can read it."
 tags: [semantic-thinking, assumption-audit, nietzche-ladder, analogy-transfer, question-forge, counterfactual, anthropic, claude, riemann-hypothesis, lean, formal-verification, mathematics]
